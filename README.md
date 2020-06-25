@@ -1,23 +1,7 @@
-## Hello World! :)
+### Hello World!
 
-You can use the [editor on GitHub](https://github.com/patakib/Nearest-Neighbor-Blog/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-hello, this is my code block
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/patakib/Nearest-Neighbor-Blog/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you are learning Data Science, Machine Learning or interested in Python in general - I am your Nearest Neighbor. Let me introduce myself!
+My name is Balint Pataki and I am an enthusiastic programmer mostly in Python with a focus for Data Science.
+I am far from being a 10+ years experienced super-professional coding guy. Actually I have strong academic background both in engineering and in economics but not in IT (this is in progress, just for fun).
+I have been working in data analysis for about 8 years in various topics from forestry and climate through procurement business and I picked up some coding skills along the way - and the journey still continues. As a lifelong-learner I'd like to share some ideas regarding data science, programming and self-teaching in the future.
+Hope you'll enjoy it as well!
