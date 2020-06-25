@@ -1,6 +1,6 @@
 ### Hello World!
 
-If you are learning *Data Science*, *Machine Learning* or interested in *Python* in general - I am your **Nearest Neighbor**. Let me introduce myself!  
+If you are learning **Data Science**, **Machine Learning** or interested in **Python** in general - I am your *Nearest Neighbor*. Let me introduce myself!  
   
 My name is Balint Pataki from Hungary (a small country in Europe) and I am an enthusiastic programmer mostly in Python with a focus for Data Science.  
 I am far from being a 10+ years experienced super-professional coding guy. Actually I have strong academic background both in engineering and in economics but not in IT (this is in progress, just for fun).  
