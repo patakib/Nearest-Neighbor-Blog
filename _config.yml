@@ -20,11 +20,10 @@
 
 title: Nearest Negighbor Blog
 email: pataki.balint@gmx.com
-description: >- # this means to ignore newlines until "baseurl:"
-"This blog is dedicated to Python, Data Science and Machine Learning"
+description: "This blog is dedicated to Python, Data Science and Machine Learning"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "nearestneighbor.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: 
+twitter_username: ""
 github_username:  patakib
 
 # Build settings
