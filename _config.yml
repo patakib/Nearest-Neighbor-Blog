@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Nearest Negighbor Blog
+title: Nearest Neighbor Blog
 email: pataki.balint@gmx.com
 description: "This blog is dedicated to Python, Data Science and Machine Learning"
 baseurl: "" # the subpath of your site, e.g. /blog
